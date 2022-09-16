@@ -1,0 +1,15 @@
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\bin\Debug\net6.0\Lacos de Repeticao.exe
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\bin\Debug\net6.0\Lacos de Repeticao.deps.json
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\bin\Debug\net6.0\Lacos de Repeticao.runtimeconfig.json
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\bin\Debug\net6.0\Lacos de Repeticao.dll
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\bin\Debug\net6.0\Lacos de Repeticao.pdb
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\Lacos de Repeticao.csproj.AssemblyReference.cache
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\Lacos de Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\Lacos de Repeticao.AssemblyInfoInputs.cache
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\Lacos de Repeticao.AssemblyInfo.cs
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\Lacos de Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\Lacos de Repeticao.dll
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\refint\Lacos de Repeticao.dll
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\Lacos de Repeticao.pdb
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\Lacos de Repeticao.genruntimeconfig.cache
+C:\Users\JJ\Jean\DIO\dotnet\Intro-ao-C#\Lacos de Repeticao\obj\Debug\net6.0\ref\Lacos de Repeticao.dll
